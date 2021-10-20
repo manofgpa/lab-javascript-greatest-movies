@@ -2000,8 +2000,8 @@ const movies = [
     genre: ['Comedy', 'Drama'],
     score: 8
   }
-];
+]
 
 if (typeof module !== 'undefined') {
-  module.exports = movies;
+  module.exports = movies
 }
